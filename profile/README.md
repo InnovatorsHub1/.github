@@ -8,3 +8,9 @@ AutoDocs is an intelligent system designed for small businesses and freelancers 
 - Easily share all documents with your accountant or sync with business management tools like GreenInvoice and iCount.
 
 AutoDocs simplifies expense management, saving you valuable time and effort.
+
+## References
+- git commands - [link](https://github.com/InnovatorsHub1/.github/blob/main/git-commands.md)
+- github docs how to start the first task - [link](https://docs.google.com/document/d/1DjAKoKK1kxiCiJiCKF3VPLnLPJ3L2B5-NzMBEYeOQsQ/edit?usp=sharing)
+- video records - [link](https://handson-academy.mylearnworlds.com/course/innovators-hub)
+- Our organization whatsapp - [link](https://chat.whatsapp.com/C0BtzCNxshcDdm2z12v0dQ)
