@@ -18,7 +18,8 @@ We have **five active teams**:
 - **Backend** ⚙️  
 - **DevOps** 🛠️  
 - **QA Automation** 🧪  
-- **Product** 📈  
+- **Product** 📈
+- **ML** ⚙️
 
 Each team works collaboratively, focusing on building **industry-standard solutions**. 💼
 
