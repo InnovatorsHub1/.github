@@ -47,10 +47,11 @@ const res = items.reduce((acc, current, index) => {
             items: [current],
             avg: current.price
         }
-        return acc
     }
-    acc[current.category].items.push(current);
-    acc[current.category].avg += current.price;
+    else {
+        acc[current.category].items.push(current);
+        acc[current.category].avg += current.price;
+    }
 
     // last
     if (index === items.length - 1) {
